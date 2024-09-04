@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skyprojects/static/css/main.a99b5c11.css",
+    "main.js": "/skyprojects/static/js/main.1661f5b8.js",
+    "static/media/vault-img.webp": "/skyprojects/static/media/vault-img.2c3d3bd06e2206a15082.webp",
+    "static/media/sky-logo.jpg": "/skyprojects/static/media/sky-logo.918ee272fbd2c9a101e9.jpg",
+    "index.html": "/skyprojects/index.html",
+    "main.a99b5c11.css.map": "/skyprojects/static/css/main.a99b5c11.css.map",
+    "main.1661f5b8.js.map": "/skyprojects/static/js/main.1661f5b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a99b5c11.css",
+    "static/js/main.1661f5b8.js"
+  ]
+}
